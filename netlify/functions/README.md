@@ -1,0 +1,1 @@
+The Vercel handlers in `api/` are the canonical server implementation for Stripe. If deploying the Stripe backend on Netlify, copy the same handler logic into this directory as Netlify Functions or use a separate backend URL and set the frontend checkout endpoint accordingly. Keep Stripe secrets in Netlify environment variables only.

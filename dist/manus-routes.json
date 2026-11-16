@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"NovaMarket.com Storefront"},{"path":"/product/:id","title":"Product Details"},{"path":"/checkout","title":"Checkout"},{"path":"/orders","title":"Wishlist and Orders"},{"path":"/account","title":"Account"}]}
